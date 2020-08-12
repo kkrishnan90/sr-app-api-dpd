@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"serviceRequestId": {
+			"name": "serviceRequestId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "serviceRequestId",
+			"order": 0
+		},
+		"rating": {
+			"name": "rating",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "rating",
+			"order": 1
+		},
+		"feedback": {
+			"name": "feedback",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "feedback",
+			"order": 2
+		}
+	}
+}

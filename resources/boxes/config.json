@@ -1,0 +1,37 @@
+{
+	"type": "Collection",
+	"properties": {
+		"serialNumber": {
+			"name": "serialNumber",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "serialNumber",
+			"order": 0
+		},
+		"mfgDate": {
+			"name": "mfgDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "mfgDate",
+			"order": 1
+		},
+		"expDate": {
+			"name": "expDate",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "expDate",
+			"order": 2
+		},
+		"inWarranty": {
+			"name": "inWarranty",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "inWarranty",
+			"order": 3
+		}
+	}
+}

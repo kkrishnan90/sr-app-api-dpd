@@ -1,0 +1,61 @@
+{
+	"type": "Collection",
+	"properties": {
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "name",
+			"order": 0
+		},
+		"mobile": {
+			"name": "mobile",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "mobile",
+			"order": 1
+		},
+		"active": {
+			"name": "active",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "active",
+			"order": 2
+		},
+		"isEngineer": {
+			"name": "isEngineer",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "isEngineer",
+			"order": 3
+		},
+		"isQC": {
+			"name": "isQC",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "isQC",
+			"order": 4
+		},
+		"isReceptionist": {
+			"name": "isReceptionist",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "isReceptionist",
+			"order": 5
+		},
+		"createdDate": {
+			"name": "createdDate",
+			"type": "date",
+			"typeLabel": "date",
+			"required": false,
+			"id": "createdDate",
+			"order": 6
+		}
+	}
+}

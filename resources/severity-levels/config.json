@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"level": {
+			"name": "level",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "level",
+			"order": 0
+		},
+		"description": {
+			"name": "description",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "description",
+			"order": 1
+		},
+		"sequence": {
+			"name": "sequence",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "sequence",
+			"order": 2
+		}
+	}
+}

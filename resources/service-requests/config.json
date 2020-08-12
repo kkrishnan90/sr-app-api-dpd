@@ -1,0 +1,77 @@
+{
+	"type": "Collection",
+	"properties": {
+		"boxId": {
+			"name": "boxId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "boxId",
+			"order": 0
+		},
+		"customerId": {
+			"name": "customerId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "customerId",
+			"order": 1
+		},
+		"employeeId": {
+			"name": "employeeId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "employeeId",
+			"order": 2
+		},
+		"severityId": {
+			"name": "severityId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "severityId",
+			"order": 3
+		},
+		"statusId": {
+			"name": "statusId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "statusId",
+			"order": 4
+		},
+		"isBillingAccepted": {
+			"name": "isBillingAccepted",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "isBillingAccepted",
+			"order": 5
+		},
+		"invoiceItems": {
+			"name": "invoiceItems",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "invoiceItems",
+			"order": 6
+		},
+		"totalPrice": {
+			"name": "totalPrice",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "totalPrice",
+			"order": 7
+		},
+		"isBillingGenerated": {
+			"name": "isBillingGenerated",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "isBillingGenerated",
+			"order": 8
+		}
+	}
+}
