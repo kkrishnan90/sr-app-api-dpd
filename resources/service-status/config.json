@@ -1,28 +1,28 @@
 {
 	"type": "Collection",
 	"properties": {
-		"status": {
-			"name": "status",
+		"serviceStatus": {
+			"name": "serviceStatus",
 			"type": "string",
 			"typeLabel": "string",
 			"required": false,
-			"id": "status",
+			"id": "serviceStatus",
 			"order": 0
 		},
-		"description": {
-			"name": "description",
+		"statusDescription": {
+			"name": "statusDescription",
 			"type": "string",
 			"typeLabel": "string",
 			"required": false,
-			"id": "description",
+			"id": "statusDescription",
 			"order": 1
 		},
-		"sequence": {
-			"name": "sequence",
+		"statusSequence": {
+			"name": "statusSequence",
 			"type": "number",
 			"typeLabel": "number",
 			"required": false,
-			"id": "sequence",
+			"id": "statusSequence",
 			"order": 2
 		}
 	}

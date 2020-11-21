@@ -1,28 +1,28 @@
 {
 	"type": "Collection",
 	"properties": {
-		"level": {
-			"name": "level",
+		"severityLevel": {
+			"name": "severityLevel",
 			"type": "string",
 			"typeLabel": "string",
 			"required": false,
-			"id": "level",
+			"id": "severityLevel",
 			"order": 0
 		},
-		"description": {
-			"name": "description",
+		"severityDescription": {
+			"name": "severityDescription",
 			"type": "string",
 			"typeLabel": "string",
 			"required": false,
-			"id": "description",
+			"id": "severityDescription",
 			"order": 1
 		},
-		"sequence": {
-			"name": "sequence",
+		"severitySequence": {
+			"name": "severitySequence",
 			"type": "number",
 			"typeLabel": "number",
 			"required": false,
-			"id": "sequence",
+			"id": "severitySequence",
 			"order": 2
 		}
 	}

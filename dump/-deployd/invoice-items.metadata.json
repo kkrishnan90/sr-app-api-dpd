@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"-deployd.invoice-items"}],"uuid":"7c62d91ec31d41f5a8c2ada0dffa86da"}

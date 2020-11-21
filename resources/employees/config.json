@@ -11,8 +11,8 @@
 		},
 		"mobile": {
 			"name": "mobile",
-			"type": "number",
-			"typeLabel": "number",
+			"type": "string",
+			"typeLabel": "string",
 			"required": false,
 			"id": "mobile",
 			"order": 1
