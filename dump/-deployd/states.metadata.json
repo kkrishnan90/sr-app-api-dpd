@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"-deployd.states"}],"uuid":"7854004bfc9740acab3e760167ec22d8"}

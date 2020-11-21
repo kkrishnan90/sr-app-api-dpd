@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"-deployd.roles"}],"uuid":"7b838edd5b1c46e68b94a2e19a14ab77"}

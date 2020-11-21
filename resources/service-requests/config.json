@@ -59,8 +59,8 @@
 		},
 		"totalPrice": {
 			"name": "totalPrice",
-			"type": "string",
-			"typeLabel": "string",
+			"type": "number",
+			"typeLabel": "number",
 			"required": false,
 			"id": "totalPrice",
 			"order": 7

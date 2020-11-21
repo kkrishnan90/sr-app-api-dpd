@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"deployd.customers"},{"v":{"$numberInt":"2"},"unique":true,"key":{"mobile":{"$numberDouble":"1.0"}},"name":"mobile_1","ns":"deployd.customers"}],"uuid":"3eadb6d73ad14a2dbe12289bc70611e1"}
